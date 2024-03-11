@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/03/10 15:25:22.000.556,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/03/10 15:25:22.000.479,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/03/10 15:31:18.000.296,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Arichivo_de_textoPCH1.h</Transaction>
+    <Transaction>2024/03/10 15:31:18.000.300,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Arichivo_de_texto.cbproj</Transaction>
+    <Transaction>2024/03/10 15:32:01.000.153,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\FMPrincipal.cpp</Transaction>
+    <Transaction>2024/03/10 15:32:01.000.153,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\FMPrincipal.h</Transaction>
+    <Transaction>2024/03/10 15:32:01.000.153,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\FMPrincipal.dfm</Transaction>
+    <Transaction>2024/03/10 15:32:20.000.463,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Arichivo_de_texto.cbproj=D:\CARRERA DE SISTEMAS\2024-1\INF220\Archivo de texto\Arichivo_de_texto.cbproj</Transaction>
+    <Transaction>2024/03/10 15:32:20.000.443,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\FMPrincipal.h=D:\CARRERA DE SISTEMAS\2024-1\INF220\Archivo de texto\FMPrincipal.h</Transaction>
+    <Transaction>2024/03/10 15:32:20.000.443,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\FMPrincipal.dfm=D:\CARRERA DE SISTEMAS\2024-1\INF220\Archivo de texto\FMPrincipal.dfm</Transaction>
+    <Transaction>2024/03/10 15:32:20.000.443,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\FMPrincipal.cpp=D:\CARRERA DE SISTEMAS\2024-1\INF220\Archivo de texto\FMPrincipal.cpp</Transaction>
+    <Transaction>2024/03/10 15:32:20.000.402,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Arichivo_de_textoPCH1.h=D:\CARRERA DE SISTEMAS\2024-1\INF220\Archivo de texto\Arichivo_de_textoPCH2.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Arichivo_de_texto.cpp"/>
+    <File Path="Arichivo_de_textoPCH2.h"/>
+    <File Path="FMPrincipal.cpp"/>
+    <File Path="FMPrincipal.cpp"/>
+    <File Path="FMPrincipal.dfm"/>
+    <File Path="FMPrincipal.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
